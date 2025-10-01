@@ -1,0 +1,11 @@
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\bin\Debug\net8.0\GRC.Infrastructure.Caching.deps.json
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\bin\Debug\net8.0\GRC.Infrastructure.Caching.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\bin\Debug\net8.0\GRC.Infrastructure.Caching.pdb
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\GRC.Infrastructure.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\GRC.Infrastructure.Caching.AssemblyInfoInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\GRC.Infrastructure.Caching.AssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\GRC.Infrastructure.Caching.csproj.CoreCompileInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\GRC.Infrastructure.Caching.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\refint\GRC.Infrastructure.Caching.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\GRC.Infrastructure.Caching.pdb
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Caching\obj\Debug\net8.0\ref\GRC.Infrastructure.Caching.dll
