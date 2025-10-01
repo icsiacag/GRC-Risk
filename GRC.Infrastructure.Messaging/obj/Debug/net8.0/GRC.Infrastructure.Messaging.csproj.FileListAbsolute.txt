@@ -1,0 +1,11 @@
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\bin\Debug\net8.0\GRC.Infrastructure.Messaging.deps.json
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\bin\Debug\net8.0\GRC.Infrastructure.Messaging.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\bin\Debug\net8.0\GRC.Infrastructure.Messaging.pdb
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\GRC.Infrastructure.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\GRC.Infrastructure.Messaging.AssemblyInfoInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\GRC.Infrastructure.Messaging.AssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\GRC.Infrastructure.Messaging.csproj.CoreCompileInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\GRC.Infrastructure.Messaging.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\refint\GRC.Infrastructure.Messaging.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\GRC.Infrastructure.Messaging.pdb
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\3.Infrastructure\GRC.Infrastructure.Messaging\obj\Debug\net8.0\ref\GRC.Infrastructure.Messaging.dll
