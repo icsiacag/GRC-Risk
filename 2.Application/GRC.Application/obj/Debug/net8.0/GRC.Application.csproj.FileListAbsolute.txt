@@ -1,0 +1,5 @@
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\2.Application\GRC.Application\obj\Debug\net8.0\GRC.Application.csproj.AssemblyReference.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\2.Application\GRC.Application\obj\Debug\net8.0\GRC.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\2.Application\GRC.Application\obj\Debug\net8.0\GRC.Application.AssemblyInfoInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\2.Application\GRC.Application\obj\Debug\net8.0\GRC.Application.AssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\2.Application\GRC.Application\obj\Debug\net8.0\GRC.Application.csproj.CoreCompileInputs.cache
