@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xqju3V82XaQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmetefe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ahmetefe\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
