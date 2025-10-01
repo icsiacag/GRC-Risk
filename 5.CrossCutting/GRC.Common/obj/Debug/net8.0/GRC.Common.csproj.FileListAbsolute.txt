@@ -1,0 +1,11 @@
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\bin\Debug\net8.0\GRC.Common.deps.json
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\bin\Debug\net8.0\GRC.Common.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\bin\Debug\net8.0\GRC.Common.pdb
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\GRC.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\GRC.Common.AssemblyInfoInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\GRC.Common.AssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\GRC.Common.csproj.CoreCompileInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\GRC.Common.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\refint\GRC.Common.dll
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\GRC.Common.pdb
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Common\obj\Debug\net8.0\ref\GRC.Common.dll

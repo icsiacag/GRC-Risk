@@ -1,0 +1,596 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\4.Presentation\\GRC.WebAPI\\GRC.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj",
+        "projectName": "GRC.Domain",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj",
+        "projectName": "GRC.SharedKernel",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application.Contracts\\GRC.Application.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application.Contracts\\GRC.Application.Contracts.csproj",
+        "projectName": "GRC.Application.Contracts",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application.Contracts\\GRC.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj",
+        "projectName": "GRC.Application",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.SharedKernel\\GRC.SharedKernel.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application.Contracts\\GRC.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application.Contracts\\GRC.Application.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Data\\GRC.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Data\\GRC.Infrastructure.Data.csproj",
+        "projectName": "GRC.Infrastructure.Data",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Data\\GRC.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Identity\\GRC.Infrastructure.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Identity\\GRC.Infrastructure.Identity.csproj",
+        "projectName": "GRC.Infrastructure.Identity",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Identity\\GRC.Infrastructure.Identity.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\4.Presentation\\GRC.WebAPI\\GRC.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\4.Presentation\\GRC.WebAPI\\GRC.WebAPI.csproj",
+        "projectName": "GRC.WebAPI",
+        "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\4.Presentation\\GRC.WebAPI\\GRC.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\ahmetefe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\4.Presentation\\GRC.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmetefe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\1.Core\\GRC.Domain\\GRC.Domain.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\2.Application\\GRC.Application\\GRC.Application.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Data\\GRC.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Data\\GRC.Infrastructure.Data.csproj"
+              },
+              "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Identity\\GRC.Infrastructure.Identity.csproj": {
+                "projectPath": "C:\\Users\\ahmetefe\\source\\repos\\GRCRiskManagement\\src\\3.Infrastructure\\GRC.Infrastructure.Identity\\GRC.Infrastructure.Identity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Asp.Versioning.Mvc.ApiExplorer": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

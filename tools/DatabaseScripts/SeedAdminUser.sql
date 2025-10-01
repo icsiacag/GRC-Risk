@@ -1,0 +1,30 @@
+﻿-- Admin User Seed Script
+INSERT INTO [dbo].[AspNetUsers] ([Id], [UserName], [NormalizedUserName], [Email], [NormalizedEmail], [EmailConfirmed], 
+[PasswordHash], [SecurityStamp], [ConcurrencyStamp], [PhoneNumber], [PhoneNumberConfirmed], [TwoFactorEnabled], 
+[LockoutEnd], [LockoutEnabled], [AccessFailedCount], [FirstName], [LastName], [CreatedAt])
+VALUES (
+    NEWID(),
+    'admin@grc.com',
+    'ADMIN@GRC.COM',
+    'admin@grc.com',
+    'ADMIN@GRC.COM',
+    1,
+    'AQAAAAIAAYagAAAAENhflLhKJzJ4X6X7D8z5mY7V6Z8kR9tY1X2bN3c4O5p6q7R8s9T0u1V2W3X4Y5Z6A7B8C9D0E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6U7V8W9X0Y1Z2A3B4C5D6E7F8G9H0I1J2K3L4M5N6O7P8Q9R0S1T2U3V4W5X6Y7Z8A9B0C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6S7T8U9V0W1X2Y3Z4A5B6C7D8E9F0G1H2I3J4K5L6M7N8O9P0Q1R2S3T4U5V6W7X8Y9Z0A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6Q7R8S9T0U1V2W3X4Y5Z6A7B8C9D0E1F2G3H4I5J6K7L8M9N0O1P2Q3R4S5T6U7V8W9X0Y1Z2A3B4C5D6E7F8G9H0I1J2K3L4M5N6O7P8Q9R0S1T2U3V4W5X6Y7Z8A9B0C1D2E3F4G5H6I7J8K9L0M1N2O3P4Q5R6S7T8U9V0W1X2Y3Z4A5B6C7D8E9F0G1H2I3J4K5L6M7N8O9P0Q1R2S3T4U5V6W7X8Y9Z0',
+    'SecurityStamp123',
+    'ConcurrencyStamp123',
+    NULL,
+    0,
+    0,
+    NULL,
+    1,
+    0,
+    'System',
+    'Administrator',
+    GETUTCDATE()
+);
+
+-- Add to Admin role
+INSERT INTO [dbo].[AspNetUserRoles] ([UserId], [RoleId])
+SELECT u.Id, r.Id 
+FROM [dbo].[AspNetUsers] u, [dbo].[AspNetRoles] r 
+WHERE u.UserName = 'admin@grc.com' AND r.Name = 'Admin';

@@ -1,0 +1,4 @@
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Audit\obj\Debug\net8.0\GRC.Audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Audit\obj\Debug\net8.0\GRC.Audit.AssemblyInfoInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Audit\obj\Debug\net8.0\GRC.Audit.AssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\src\5.CrossCutting\GRC.Audit\obj\Debug\net8.0\GRC.Audit.csproj.CoreCompileInputs.cache

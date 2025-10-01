@@ -1,0 +1,8 @@
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.csproj.AssemblyReference.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.AssemblyInfoInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.AssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.csproj.CoreCompileInputs.cache
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ahmetefe\source\repos\GRCRiskManagement\obj\Debug\net8.0\GRCRiskManagement.MvcApplicationPartsAssemblyInfo.cache
